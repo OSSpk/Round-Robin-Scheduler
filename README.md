@@ -11,6 +11,7 @@ You have to write a code which acts like a Round Robin scheduler. Your program w
 ![table 1](../master/images/i1.png)
 
 When user will start your program it will ask the user to enter the length of the quantum as following
+
 ```[pc@user ~ ]$ Enter the length of the quantum [1-100]:```
 
 When a user enters any value between 1 to 100, it will schedule the jobs according to that quantum and save the order in which they execute into a comma separated file named Assign-1.op. In the above example suppose the value of quantum was given to be as 10, then its result will be the following table. The table will be saved in the form of a comma separated file as provided in the sample.

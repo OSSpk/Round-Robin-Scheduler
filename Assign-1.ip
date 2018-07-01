@@ -1,0 +1,4 @@
+PID, Arrival Time, Burst Time
+P1, 10, 30
+P2, 20, 50
+P3, 40, 10

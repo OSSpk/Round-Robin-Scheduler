@@ -22,3 +22,14 @@ When a user enters any value between 1 to 100, it will schedule the jobs accordi
 
 Simply run the "Round Robin Scheduler.cpp" file in any C++ compliant IDE. 
 In order to open the Assign-1.ip and Assign-1.op files, you can use any editor like Notepad ++
+
+
+## Contact
+You can get in touch with me on my LinkedIn Profile: [Haris Muneer](https://www.linkedin.com/in/harismuneer/)
+
+## Issues
+If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
+
+## License
+[MIT](../master/LICENSE)
+Copyright (c) 2018-present, harismuneer
